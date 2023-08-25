@@ -1,4 +1,4 @@
-# Кластеризация клиентов торгового центра. Описание проекта.
+# Кластеризация покупателей торгового центра. Описание проекта.
 
 Ссылка на Kaggle: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
