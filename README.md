@@ -11,6 +11,5 @@
 |5. | [Жим штанги лёжа - предсказание рекорда](https://github.com/SimanovskiySM/Portfolio_Kaggle/tree/main/Powerlifting_EDA_regression)       | 	python, pandas, matplotlib, seaborn, plotly, phik, sklearn, catboost  | Завершён
 |6. | [Кластеризация покупателей торгового центра](https://github.com/SimanovskiySM/Portfolio_Kaggle/tree/main/Customer_clustering)       | 	python, pandas, sklearn  | Завершён
 |7. | [Прогноз здоровья плода с помощью машинного обучения](https://github.com/SimanovskiySM/Portfolio_Kaggle/tree/main/Fetal_health_ML)       | 	python, pandas, sklearn, catboost, lightgbm, xgboost  | Завершён
-
-
+|8. | [Быстрая классификация твитов с помощью CatBoost](CatBoost_NLP)       | 	python, pandas, matplotlib, seaborn, numpy, sklearn, catboost, nltk  | Завершён
 
