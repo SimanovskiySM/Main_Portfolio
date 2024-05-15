@@ -13,4 +13,4 @@
 |7. | [Прогноз здоровья плода с помощью машинного обучения](https://github.com/SimanovskiySM/Main_Portfolio/tree/main/Fetal_health_ML)       | 	python, pandas, sklearn, catboost, lightgbm, xgboost  | Завершён
 |8. | [Быстрая классификация твитов с помощью CatBoost](CatBoost_NLP)       | 	python, pandas, matplotlib, seaborn, numpy, sklearn, catboost, nltk  | Завершён
 |9. | [Классификация обложек альбомов метал-групп по поджанрам](https://github.com/SimanovskiySM/Main_Portfolio/tree/main/Metal_cover_art_CV)       | 	python, fast.ai, matplotlib, numpy, requests  | Завершён
-
+|10. | [Построение ML-продукта для выявления и оптимизации платежей преподавателей сервиса Repetit.ru](https://github.com/SimanovskiySM/Main_Portfolio/tree/main/Repetit_ru_ML)       | 	python, pandas, matplotlib, seaborn, numpy, sklearn, pycaret  | Завершён
